@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programmeringuppgift5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f134c81661686043fe7948241197fe314835b2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2ec9c6cba320fdd40ddca4aabb249fc63e2f648")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programmeringuppgift5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programmeringuppgift5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

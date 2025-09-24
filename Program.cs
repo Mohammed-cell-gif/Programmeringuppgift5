@@ -10,6 +10,7 @@ Console.WriteLine("Skriv den fjärde");
 v[3] = int.Parse(Console.ReadLine());
 Console.WriteLine("Skriv den femte");
 v[4] = int.Parse(Console.ReadLine());
+Console.WriteLine("talet i omvänd ordning är");
 Console.WriteLine(v[4]);
 Console.WriteLine(v[3]);
 Console.WriteLine(v[2]);

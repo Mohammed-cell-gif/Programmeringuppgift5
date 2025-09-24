@@ -12,3 +12,4 @@ C:\GitHub\Programmeringuppgift5\obj\Debug\net9.0\refint\Programmeringuppgift5.dl
 C:\GitHub\Programmeringuppgift5\obj\Debug\net9.0\Programmeringuppgift5.pdb
 C:\GitHub\Programmeringuppgift5\obj\Debug\net9.0\Programmeringuppgift5.genruntimeconfig.cache
 C:\GitHub\Programmeringuppgift5\obj\Debug\net9.0\ref\Programmeringuppgift5.dll
+C:\GitHub\Programmeringuppgift5\obj\Debug\net9.0\Programmeringuppgift5.sourcelink.json
