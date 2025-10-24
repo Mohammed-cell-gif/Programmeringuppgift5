@@ -1,15 +1,20 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Skriv fem tall åt gång och jag kommer skriva dom i omvänd ordning");
 int[] v = new int[5];
-v[0] = int.Parse(Console.ReadLine());
+string str1 = Console.ReadLine();
+v[0] = int.Parse(str1);
 Console.WriteLine("Skriv de andra tal");
-v[1] = int.Parse(Console.ReadLine());
+string str2 = Console.ReadLine();
+v[1] = int.Parse(str2);
 Console.WriteLine("Skriv den tredje");
-v[2] = int.Parse(Console.ReadLine());
+string str3 = Console.ReadLine();
+v[2] = int.Parse(str3);
 Console.WriteLine("Skriv den fjärde");
-v[3] = int.Parse(Console.ReadLine());
+string str4 = Console.ReadLine();
+v[3] = int.Parse(str4);
 Console.WriteLine("Skriv den femte");
-v[4] = int.Parse(Console.ReadLine());
+string str5 = Console.ReadLine();
+v[4] = int.Parse(str5);
 Console.WriteLine("talet i omvänd ordning är");
 Console.WriteLine(v[4]);
 Console.WriteLine(v[3]);
